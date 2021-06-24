@@ -1,5 +1,6 @@
 ### Wiiiiii 👋
 
+não sei 
 
 **DiogoDDSantos/DiogoDDSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +11,7 @@ Here are some ideas to get you started:
 Estudando
 - 🌱 I’m currently learning ...
 
-Tudo sobre culinária
+Tudo sobre culinária e progamação
 - 👯 I’m looking to collaborate on ...
 
 Com minha não sei
