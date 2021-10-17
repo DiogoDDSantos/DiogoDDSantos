@@ -15,10 +15,12 @@ I have some experience in these
 <li>HTML with CSS</li>
 <li>JavaScript</li>
 
+
 I'm going to learn these
 
 <li>Python</li>
 <li>Java</li>
+
 
 ❖My hobbies and things I like
 
