@@ -29,6 +29,7 @@ Staying with people i like
 Watching Anime
 Reading Manga 
 Tengen Toppa Gurren-Lagann Best Anime
+
 <a href="https://gifs.alphacoders.com/gifs/view/149108"><img src="https://giffiles.alphacoders.com/149/149108.gif"></a>
 
 ❖Social Networks and How you can reach me!
