@@ -17,13 +17,11 @@ I have some experience in these
 
 
 I'm going to learn these
-
 <li>Python</li>
 <li>Java</li>
 
 
 ❖My hobbies and things I like
-
 Some of these include
 
 <li>Playing Games</li>
