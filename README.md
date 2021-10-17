@@ -1,4 +1,4 @@
-<h3>❖HELLO WORLD!</h3>
+<h1>❖HELLO WORLD!</h1>
 
 My name is Diogo Dalbianco dos Santos, i'm just a Brazilian person. Currently I'm attending high-school at CTISM-UFSM, in the integrated computer course for the internet.
 
@@ -10,13 +10,13 @@ Currently I am looking forward to learn an high-level programming language like 
 
 In general I don't have much experience, but there are some languages I had contact and some that I will have in the future.
 
-<h1>I have some experience in these</h1>
+<h3>I have some experience in these</h3>
 <li>C</li>
 <li>HTML with CSS</li>
 <li>JavaScript</li>
 
 
-<h1>I'm going to learn these</h1>
+<h3>I'm going to learn these</h3>
 <li>Python</li>
 <li>Java</li>
 
