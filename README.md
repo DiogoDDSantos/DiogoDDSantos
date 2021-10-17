@@ -1,27 +1,27 @@
-❖HELLO WORLD!
+<h3>❖HELLO WORLD!</h3>
 
 My name is Diogo Dalbianco dos Santos, i'm just a Brazilian person. Currently I'm attending high-school at CTISM-UFSM, in the integrated computer course for the internet.
 
-❖What are my interests in the computer area?
+<h2>❖What are my interests in the computer area?</h2>
 
 Currently I am looking forward to learn an high-level programming language like Python. And learn more about the hardware area in general, I also have a possible interest in becoming a computer hardware engineer.
 
-❖My programming skills
+<h2>❖My programming skills</h2>
 
 In general I don't have much experience, but there are some languages I had contact and some that I will have in the future.
 
-I have some experience in these
+<h1>I have some experience in these</h1>
 <li>C</li>
 <li>HTML with CSS</li>
 <li>JavaScript</li>
 
 
-I'm going to learn these
+<h1>I'm going to learn these</h1>
 <li>Python</li>
 <li>Java</li>
 
 
-❖My hobbies and things I like
+<h2>❖My hobbies and things I like</h2>
 Some of these include
 
 <li>Playing Games</li>
@@ -34,7 +34,7 @@ Tengen Toppa Gurren-Lagann Best Anime
 
 <a href="https://gifs.alphacoders.com/gifs/view/149108"><img src="https://giffiles.alphacoders.com/149/149108.gif"></a>
 
-❖Social Networks and How you can reach me!
+<h2>❖Social Networks and How you can reach me!</h2>
 
 You can e-mail me through: ✉ diogodalbianco10@gmail.com
 
