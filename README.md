@@ -37,6 +37,7 @@ Tengen Toppa Gurren-Lagann Best Anime
 <h2>❖Social Networks and How you can reach me!</h2>
 
 - [Twitter](https://twitter.com/stand_e)
+
 You can e-mail me through: ✉ diogodalbianco10@gmail.com
 
 "Não acredite em você mesmo, acredite em mim, que acredita em você."
