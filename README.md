@@ -10,15 +10,13 @@ Currently I am looking forward to learn an high-level programming language like 
 
 In general I don't have much experience, but there are some languages I had contact and some that I will have in the future.
 
-<h3>I have some experience in these</h3>
+<h3>I have experience in these</h3>
 <li>C</li>
 <li>HTML with CSS</li>
 <li>JavaScript</li>
-
-
-<h3>I'm going to learn these</h3>
 <li>Python</li>
 <li>Java</li>
+
 
 
 <h2>❖My hobbies and things I like</h2>
